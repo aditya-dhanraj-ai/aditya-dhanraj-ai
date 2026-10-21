@@ -20,7 +20,12 @@ I am passionate about using Artificial Intelligence to solve real-world problems
    - 🔗 [Live App](https://earthquake-depth-app.onrender.com) | [GitHub Repo](https://github.com/aditya-dhanraj-ai/earthquake-depth-app)
 
 ---
-
+### 🔬 Research Interests
+- Machine Learning for Seismology
+- Seismic Phase Picking & Waveform Analysis
+- Earthquake Early Warning Systems (EEWS)
+- Time-Series Analysis using Deep Learning (LSTM/CNN)
+  
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
