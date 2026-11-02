@@ -6,7 +6,7 @@ I am passionate about using Artificial Intelligence to solve real-world problems
 
 - 🌍 **Currently building:** Real-time AI applications for Earthquake Detection and Depth Prediction.
 - 📚 **Learning:** Deep Learning (CNN, LSTM) and Time-Series Analysis.
-- 🎯 **Goal:** To pursue a Master's degree at Hokkaido University and work as an ML Engineer at Google Japan.
+- 🎯 **Goal:** To apply AI and Deep Learning to solve real-world problems in Earthquake Detection and Seismic Hazard Analysis.
 
 ---
 
