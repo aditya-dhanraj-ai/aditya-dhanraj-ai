@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya Dhanraj! 👋
 
-### 🎓 BCA Student | Aspiring ML Engineer  AI for Seismology (Hokkaido University)
+### 🎓 BCA Student | Aspiring ML Engineer  AI for Seismology
 
 I am passionate about using Artificial Intelligence to solve real-world problems, specifically in the field of **Seismology and Earthquake Detection**.
 
